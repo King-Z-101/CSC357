@@ -1,0 +1,3 @@
+My version of /bin/pwd
+- Gets you the full path of whatever directory this program is executed at.
+- Implements C, Standard IO, stat() structs.
