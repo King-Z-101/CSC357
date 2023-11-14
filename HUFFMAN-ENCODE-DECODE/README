@@ -1,0 +1,2 @@
+Program that can take an input file and create a compressed output file using huffman encoding. This compressed file can later be decoded to output the starting message. 
+- Implements C, Makefiles, UNIX IO
